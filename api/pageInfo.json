@@ -1,0 +1,119 @@
+[
+  {
+    "navPages": [
+      {
+        "name": "Watches",
+        "url": "product-page.html"
+      },
+      {
+        "name": "Store",
+        "url": "#where-to-buy-box"
+      }
+    ],
+    "mainHeader": "New for 2022!",
+    "productHeader": "New for 2022!",
+    "headerImgs": [
+      {
+        "img": "images/watch8.png",
+        "url": "productIndividual.html#1"
+      },
+      {
+        "img": "images/watch10.png",
+        "url": "productIndividual.html#2"
+      },
+      {
+        "img": "images/watch11.png",
+        "url": "productIndividual.html#3"
+      },
+      {
+        "img": "images/watch1.png",
+        "url": "productIndividual.html#4"
+      },
+      {
+        "img": "images/watch2.png",
+        "url": "productIndividual.html#5"
+      },
+      {
+        "img": "images/watch13.png",
+        "url": "productIndividual.html#6"
+      }
+    ],
+    "logo": {
+      "src": "images/gold-logo.png",
+      "alt": "Company logo"
+    },
+    "footer": {
+      "address": {
+        "street": "1234 Alphabet St",
+        "city": "Madison",
+        "state": "WI",
+        "zip": "53558"
+      },
+      "phone": "1-800-555-5555",
+      "email": "questions@watches-inc.com",
+      "copyright": "&copy 2021-2022 Kaitlyn Lilith Designs"
+    },
+    "pages": [
+      {
+        "name": "Home",
+        "url": "index.html"
+      },
+      {
+        "name": "Watches",
+        "url": "product-page.html"
+      },
+      {
+        "name": "FAQs",
+        "url": "faqs.html"
+      },
+      {
+        "name": "Contact Us",
+        "url": "contact.html"
+      },
+      {
+        "name": "Search",
+        "url": "search.html"
+      }
+    ],
+    "socialMedia": [
+      {
+        "name": "Twitter",
+        "url": "https://www.twitter.com",
+        "shareLink": "https://www.twitter.com",
+        "iconClass": "fa-twitter"
+      },
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com",
+        "shareLink": "https://www.facebook.com",
+        "iconClass": "fa-facebook-f"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com",
+        "shareLink": "https://www.instagram.com",
+        "iconClass": "fa-instagram"
+      },
+      {
+        "name": "Pinterest",
+        "url": "https://www.pinterest.com",
+        "shareLink": "https://www.pinterest.com",
+        "iconClass": "fa-pinterest-p"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com",
+        "shareLink": "https://www.linkedin.com",
+        "iconClass": "fa-linkedin-in"
+      }
+    ],
+    "companyInfo": {
+      "heading": "Kaitlyn Lilith Designs",
+      "image": {
+        "src": "images/watch22.png",
+        "alt": "Company image"
+      },
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque habitant morbi tristique senectus et netus et. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Magna fringilla urna porttitor rhoncus dolor. Et egestas quis ipsum suspendisse. Sed blandit libero volutpat sed cras ornare arcu dui. Mauris rhoncus aenean vel elit scelerisque mauris. Cursus risus at ultrices mi tempus imperdiet. Malesuada fames ac turpis egestas maecenas pharetra convallis. Cras ornare arcu dui vivamus arcu felis bibendum. Tincidunt vitae semper quis lectus nulla."
+    }
+  }
+]

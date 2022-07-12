@@ -1,0 +1,54 @@
+[
+  {
+    "storeName": "Amazon",
+    "storeLogo": "<i class='fa-brands fa-amazon'></i>",
+    "alt": "Amazon logo",
+    "links": {
+      "main": "www.amazon.com/watches-inc",
+      "aquamaster": "",
+      "gmt": "",
+      "formal": "",
+      "casual": ""
+    },
+    "state": "active"
+  },
+  {
+    "storeName": "Ebay",
+    "storeLogo": "<i class='fa-brands fa-ebay'></i>",
+    "alt": "Ebay logo",
+    "links": {
+      "main": "www.ebay.com/watches-inc",
+      "aquamaster": "",
+      "gmt": "",
+      "formal": "",
+      "casual": ""
+    },
+    "state": "active"
+  },
+  {
+    "storeName": "Etsy",
+    "storeLogo": "<i class='fa-brands fa-etsy'></i>",
+    "alt": "Etsy logo",
+    "links": {
+      "main": "www.etsy.com/watches-inc",
+      "aquamaster": "",
+      "gmt": "",
+      "formal": "",
+      "casual": ""
+    },
+    "state": "active"
+  },
+  {
+    "storeName": "Shopify",
+    "storeLogo": "<i class='fa-brands fa-shopify'></i>",
+    "alt": "Shopify logo",
+    "links": {
+      "main": "www.shopify.com/watches-inc",
+      "aquamaster": "",
+      "gmt": "",
+      "formal": "",
+      "casual": ""
+    },
+    "state": "active"
+  }
+]

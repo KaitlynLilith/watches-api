@@ -1,0 +1,168 @@
+[
+  {
+    "id": 1,
+    "name": "Divemaster I",
+    "category": "diving",
+    "promote": "yes",
+    "image": {
+      "src": "images/watch3.png",
+      "alt": "DiveMaster I: the watch for scuba diving"
+    },
+    "url": "productIndividual.html#1",
+    "shortDesc": "Must have for scuba diving",
+    "tags": [
+      "divemaster",
+      "scuba",
+      "water",
+      "resistant",
+      "diving",
+      "rugged",
+      "watch",
+      "1"
+    ],
+    "state": "active"
+  },
+  {
+    "id": 2,
+    "name": "Global I",
+    "category": "gmt",
+    "promote": "yes",
+    "image": {
+      "src": "images/watch4.png",
+      "alt": "Global I: the watch for those who live in many worlds"
+    },
+    "url": "productIndividual.html#2",
+    "shortDesc": "Live in many worlds",
+    "tags": ["global", "gmt", "time zone", "water", "resistant", "watch", "2"],
+    "state": "active"
+  },
+  {
+    "id": 3,
+    "name": "Classic I",
+    "category": "formal",
+    "promote": "yes",
+    "image": {
+      "src": "images/watch5.png",
+      "alt": "Classic I: the watch for special events"
+    },
+    "url": "productIndividual.html#3",
+    "shortDesc": "Perfect for special events",
+    "tags": [
+      "water",
+      "resistant",
+      "classic",
+      "formal",
+      "special",
+      "events",
+      "watch",
+      "3"
+    ],
+    "state": "active"
+  },
+  {
+    "id": 4,
+    "name": "Everything I",
+    "category": "casual",
+    "promote": "yes",
+    "image": {
+      "src": "images/watch7.png",
+      "alt": "Everything I: the watch for every day"
+    },
+    "url": "productIndividual.html#4",
+    "shortDesc": "Perfect for every day",
+    "tags": [
+      "water",
+      "resistant",
+      "everything",
+      "rugged",
+      "casual",
+      "everyday",
+      "watch",
+      "4"
+    ],
+    "state": "active"
+  },
+  {
+    "id": 5,
+    "name": "Divemaster II",
+    "category": "diving",
+    "promote": "yes",
+    "image": {
+      "src": "images/watch14.png",
+      "alt": "DiveMaster II: the watch for scuba diving"
+    },
+    "url": "productIndividual.html#5",
+    "shortDesc": "Must have for scuba diving",
+    "tags": [
+      "water",
+      "resistant",
+      "divemaster",
+      "scuba",
+      "diving",
+      "rugged",
+      "watch",
+      "5"
+    ],
+    "state": "active"
+  },
+  {
+    "id": 6,
+    "name": "Global II",
+    "category": "gmt",
+    "promote": "yes",
+    "image": {
+      "src": "images/watch16.png",
+      "alt": "Global II: the watch for those who live in many worlds"
+    },
+    "url": "productIndividual.html#6",
+    "shortDesc": "Live in many worlds",
+    "tags": ["water", "resistant", "global", "gmt", "time zone", "watch", "6"],
+    "state": "active"
+  },
+  {
+    "id": 7,
+    "name": "Classic II",
+    "category": "formal",
+    "promote": "yes",
+    "image": {
+      "src": "images/watch17.png",
+      "alt": "Classic II: the watch for special events"
+    },
+    "url": "productIndividual.html#7",
+    "shortDesc": "Must have for scuba diving",
+    "tags": [
+      "water",
+      "resistant",
+      "classic",
+      "formal",
+      "special",
+      "events",
+      "watch",
+      "7"
+    ],
+    "state": "active"
+  },
+  {
+    "id": 8,
+    "name": "Everything II",
+    "category": "casual",
+    "promote": "yes",
+    "image": {
+      "src": "images/watch18.png",
+      "alt": "Everything II: the watch for every day"
+    },
+    "url": "productIndividual.html#8",
+    "shortDesc": "Must have for scuba diving",
+    "tags": [
+      "water",
+      "resistant",
+      "everything",
+      "rugged",
+      "casual",
+      "everyday",
+      "watch",
+      "8"
+    ],
+    "state": "active"
+  }
+]

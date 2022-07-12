@@ -1,0 +1,105 @@
+[
+  {
+    "name": "call",
+    "title": "Call Us",
+    "time zone": "UTC-6",
+    "info": [
+      {
+        "phone": "1-800-555-5555"
+      },
+      {
+        "hours": [
+          {
+            "monday": {
+              "open": "8:00 am",
+              "close": "5:00 pm"
+            }
+          },
+          {
+            "tuesday": {
+              "open": "8:00 am",
+              "close": "5:00 pm"
+            }
+          },
+          {
+            "wednesday": {
+              "open": "8:00 am",
+              "close": "5:00 pm"
+            }
+          },
+          {
+            "thursday": {
+              "open": "8:00 am",
+              "close": "5:00 pm"
+            }
+          },
+          {
+            "friday": {
+              "open": "8:00 am",
+              "close": "5:00 pm"
+            }
+          }
+        ]
+      },
+      {
+        "closed": ["Weekends", "American Holidays"]
+      }
+    ]
+  },
+  {
+    "name": "email",
+    "title": "Email Us",
+    "info": [
+      {
+        "product questions": "products@watches-inc.com"
+      },
+      {
+        "warranty questions": "warranty@watches-inc.com"
+      },
+      {
+        "media questions": "media@watches-inc.com"
+      },
+      {
+        "all other questions": "products@watches-inc.com"
+      }
+    ]
+  },
+  {
+    "name": "signup",
+    "title": "Sign Up for Notifications",
+    "input": [
+      {
+        "type": "text",
+        "id": "signup-name",
+        "class": "input",
+        "name": "name",
+        "placeholder": "Name"
+      },
+      {
+        "type": "text",
+        "id": "signup-email",
+        "class": "input",
+        "name": "email",
+        "placeholder": "Email Address",
+        "required": ""
+      },
+      {
+        "type": "text",
+        "id": "signup-phone",
+        "class": "input",
+        "name": "phone",
+        "placeholder": "Phone Number"
+      },
+      {
+        "type": "submit",
+        "id": "signup-submit",
+        "class": "input",
+        "value": "Sign Me Up"
+      }
+    ],
+    "info": {
+      "email": "signup@watches-inc.com",
+      "thank-you": "Thank you for signing up!"
+    }
+  }
+]
